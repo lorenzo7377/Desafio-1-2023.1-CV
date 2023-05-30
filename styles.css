@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(255, 255, 255);
+}
+
+#titulo2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    position:absolute;
+    margin-left: 10cm;
+    margin-right: 8.3cm;
+}
+
